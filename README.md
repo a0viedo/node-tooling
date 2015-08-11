@@ -16,7 +16,6 @@
     - [iron-node](#iron-node)
   - [Platforms as a Service](#platforms-as-a-service)
   - [Continuous Integration](#continuous-integration)
-  - [](#)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
