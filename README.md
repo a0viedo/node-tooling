@@ -1,3 +1,25 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [JavaScript and Node.js tooling](#javascript-and-nodejs-tooling)
+  - [Editor](#editor)
+    - [Sublime Text 3](#sublime-text-3)
+  - [IDE](#ide)
+  - [Using different versions of Node](#using-different-versions-of-node)
+  - [Linter](#linter)
+    - [Adding your linter to Sublime Text](#adding-your-linter-to-sublime-text)
+  - [Tabs and format](#tabs-and-format)
+  - [Process Manager](#process-manager)
+  - [Debugging](#debugging)
+    - [node-inspector](#node-inspector)
+    - [iron-node](#iron-node)
+  - [Platforms as a Service](#platforms-as-a-service)
+  - [Continuous Integration](#continuous-integration)
+  - [](#)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # JavaScript and Node.js tooling
 
 An opinionated list of resources for JavaScript and Node.js development.
