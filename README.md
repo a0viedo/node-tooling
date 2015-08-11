@@ -30,11 +30,14 @@ Install the package (see [Sublime Text 3](#sublime-text-3)) `SublimeLinter` and 
 Checking for spaces before or after every parenthesis is a waste of time. Same goes for manually indenting any new line if your code, even if it's copy & pasted. [JavaScript Beautify][js-beautify] is a great tool for doing that automatically and is also configurable. Install the package in Sublime Text and after that you will be able to run it by pressing `Ctrl+Alt+f`.
 
 ## Process Manager
+If some uncaught exception fires in your application, you will probably don't want to start the application again manually. The following options will watch your application process and restart it if something goes wrong:
 
 - [upstart][upstart]
 - [forever][forever]
 - [supervisor][supervisor]
 - [PM2][pm2]
+
+In the case of supervisor, not only will restart the application if an uncaught exception occurs, but will also restart your application if you modify any server-side file for the modifications to take effect.
 
 The first three options are simple and they only try to focus on a single feature, while PM2 offers a lot more functionalities like CPU monitoring, log facilities and load balancing.
 
@@ -91,6 +94,6 @@ There are several options that include free services to Open Source projects suc
 [jenkins-ci]: https://jenkins-ci.org/
 [travis-ci]: https://travis-ci.org/
 
-
+------------------
 
 Contributions and suggestions are welcome! Just open an issue or a pull request.
