@@ -31,6 +31,7 @@ There're very good options with syntax highlighting and support for plugins:
 * [Brackets][brackets]
 * [Atom][atom]
 * [Cloud9][cloud9]
+* [Visual Studio Code][vscode]
 
 The last option, Cloud9, it's a web-based editor but it definitely deserves a try.
 
@@ -80,6 +81,7 @@ Many solutions include several instances with a free account like:
 - [Heroku][heroku]
 - [DigitalOcean][digitalocean]
 - [Modulus][modulus]
+- [Microsoft Azure Web Apps][azure]
 
 ## Continuous Integration
 There are several options that include free services to Open Source projects such as:
@@ -94,6 +96,7 @@ There are several options that include free services to Open Source projects suc
 [brackets]: http://brackets.io/
 [atom]: https://atom.io/
 [cloud9]: https://c9.io/
+[vscode]: https://code.visualstudio.com/
 [package-control]: https://packagecontrol.io/
 [nvm]: https://github.com/creationix/nvm
 [jshint]: http://jshint.com/
@@ -103,6 +106,7 @@ There are several options that include free services to Open Source projects suc
 [heroku]: https://heroku.com/
 [digitalocean]: https://www.digitalocean.com/
 [modulus]: https://modulus.io/
+[azure]: http://azure.microsoft.com/
 [pm2]: https://github.com/Unitech/pm2
 [supervisor]: https://github.com/Supervisor/supervisor
 [upstart]: https://github.com/cvee/node-upstart
