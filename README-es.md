@@ -42,7 +42,7 @@ Hasta el momento no trabajé con ningún IDE en especial, pero si tuve la oportu
 Muchas veces resulta útil tener soporte multi-versión de Node ya que algunos proyectos pueden funcionar en las versiones 0.12 o 0.10 y otros únicamente en 0.8. La idea de tener varias instalaciones *manuales* tampoco es muy agradable. [NVM][nvm] es una gran herramienta para esos casos y también tiene soporte para [io.js][io.js].
 
 ## Linter
-Olvidate de checkear manualmente todos los paréntesis que abrís o, incluso peor, tener que encontrarte con errores de sintaxis cuando tu proceso se ejecuta. Los linters están para ayudarte en estos casos. Dos buenas opciones son [JSHint][jshint] y [ESLint][eslint]. Personalmente prefieron ESLint ya que ofrece una configuración mucho más granular.
+Olvidate de checkear manualmente todos los paréntesis que abrís o, incluso peor, tener que encontrarte con errores de sintaxis cuando tu proceso se ejecuta. Los linters están para ayudarte en estos casos. Dos buenas opciones son [JSHint][jshint] y [ESLint][eslint]. Personalmente prefiero ESLint ya que ofrece una configuración mucho más granular.
 
 ### Agregando tu linter a Sublime Text
 Instalá (fijate cómo en [acá](#sublime-text-3)) el paquete `SublimeLinter` y después instalá el paquete correspondiente al linter de tu elección (`SublimeLinter-jshint` or `SublimeLinter-contrib-eslint`). Tal vez debas cerrar y volver a abrir Sublime para que los cambios tomen efecto.
