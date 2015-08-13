@@ -23,7 +23,7 @@
 
 
 
-An opinionated list of resources for JavaScript and Node.js development.
+An opinionated list of resources for JavaScript and Node.js development. You can find the Spanish version [here][readme-es].
 
 ## Editor
 There're very good options with syntax highlighting and support for plugins:
@@ -116,6 +116,7 @@ There are several options that include free services to Open Source projects suc
 [codeship]: https://codeship.com/
 [jenkins-ci]: https://jenkins-ci.org/
 [travis-ci]: https://travis-ci.org/
+[readme-es]: README-es.md
 
 ------------------
 
