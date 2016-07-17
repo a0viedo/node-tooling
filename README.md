@@ -89,6 +89,7 @@ There are several options that include free services to Open Source projects suc
 - [Travis CI][travis-ci]
 - [Jenkins CI][jenkins-ci]
 - [Codeship][codeship]
+- [CircleCI][circle-ci]
 
 
 [io.js]: https://iojs.org/en/index.html
@@ -121,6 +122,7 @@ There are several options that include free services to Open Source projects suc
 [jenkins-ci]: https://jenkins-ci.org/
 [travis-ci]: https://travis-ci.org/
 [readme-es]: README-es.md
+[circle-ci]: https://circleci.com/
 
 ------------------
 
