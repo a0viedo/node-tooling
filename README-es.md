@@ -122,7 +122,6 @@ Hay varias opciones que incluyen servicios gratuitos para proyectos Open Source 
 [readme-en]: README.md
 [readme-es]: README-es.md
 [circle-ci]: https://circleci.com/
-[circle-ci]: https://circleci.com/
 
 ------------------
 
